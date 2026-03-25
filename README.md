@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&theme=ambient_gradient&section=header&height=200&text=Heiji57&animation=fadeIn&fontColor=auto&fontSize=50&fontAlign=20&fontAlignY=40&desc=BE-Developer&descAlign=37&descAlignY=45&stroke=281C59">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&theme=ambient_gradient&section=header&height=200&text=Heiji57&animation=fadeIn&fontColor=00C0EA&fontSize=50&fontAlign=20&fontAlignY=40&desc=BE-Developer&descAlign=37&descAlignY=45&stroke=281C59">
 
 <div align="center">
   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
