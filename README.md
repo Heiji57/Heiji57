@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Postgres-406093?style=for-the-badge&logo=PostgreSQL&logoColor=1992E3" />&nbsp
   <img src="https://img.shields.io/badge/Redis-DB1A1A.svg?style=for-the-badge&logo=Redis&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/elasticsearch-F5FBE6.svg?style=for-the-badge&logo=Elasticsearch&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/elasticsearch-F5FBE6.svg?style=for-the-badge&logo=Elasticsearch&logoColor=36656B" />&nbsp
 </div>
 
 <br>
