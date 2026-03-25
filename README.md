@@ -1,11 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&theme=ambient_gradient&section=header&height=200&text=Heiji57&animation=fadeIn&fontColor=00C0EA&fontSize=50&fontAlign=20&fontAlignY=40&desc=Developer&descAlign=37&descAlignY=45&stroke=281C59">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Back-End)](https://git.io/typing-svg)
-
-
-<div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heiji57&show_icons=true&theme=radical)  
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&theme=ambient_gradient&section=header&height=200&text=Heiji57&animation=fadeIn&fontColor=00C0EA&fontSize=50&fontAlign=20&fontAlignY=40&desc=BE-Developer&descAlign=37&descAlignY=45&stroke=281C59">
 
 <div align="center">
   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
