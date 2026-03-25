@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:#E79CB5, 100:#9FD2E7&theme=ambient_gradient&section=header&height=200&text=Heiji57&animation=fadeIn&fontColor=725CAD&fontSize=50&fontAlign=20&fontAlignY=40&desc=BE%20Developer&descAlign=40&descAlignY=50&stroke=281C59">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient
+&theme=ambient_gradient&section=header&height=200&text=Heiji57&animation=fadeIn&fontColor=725CAD&fontSize=50&fontAlign=20&fontAlignY=40&desc=BE%20Developer&descAlign=40&descAlignY=50&stroke=281C59">
 <!--
 **Heiji57/Heiji57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
