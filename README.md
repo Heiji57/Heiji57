@@ -17,7 +17,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/OpenJDK-C40C0C?style=for-the-badge&logo=OpenJDK&logoColor=740A03" />&nbsp
   <img src="https://img.shields.io/badge/Kotlin-000000.svg?style=for-the-badge&logo=kotlin&logoColor=B153D7" />&nbsp
-  <img src="https://img.shields.io/badge/elasticsearch-F5FBE6.svg?style=for-the-badge&logo=Elasticsearch&logoColor=A8DF8E" />&nbsp
 </div>
 
 <br>
