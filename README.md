@@ -16,7 +16,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/OpenJDK-C40C0C?style=for-the-badge&logo=OpenJDK&logoColor=740A03" />&nbsp
-  <img src="https://img.shields.io/badge/Kotlin-DB1A1A.svg?style=for-the-badge&logo=Kotlin&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Kotlin-DB1A1A.svg?style=for-the-badge&logo=코틀린&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/elasticsearch-F5FBE6.svg?style=for-the-badge&logo=Elasticsearch&logoColor=A8DF8E" />&nbsp
 </div>
 
