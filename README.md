@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&theme=ambient_gradient&section=header&height=200&text=Heiji57&animation=fadeIn&fontColor=00C0EA&fontSize=50&fontAlign=20&fontAlignY=40&desc=BE-Developer&descAlign=37&descAlignY=45&stroke=281C59">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&theme=ambient_gradient&section=header&height=200&text=Heiji57&animation=fadeIn&fontColor=auto&fontSize=50&fontAlign=20&fontAlignY=40&desc=BE-Developer&descAlign=37&descAlignY=45&stroke=281C59">
 
 <div align="center">
   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
@@ -59,17 +59,6 @@
 </div>
 
 <br>
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:oka1313@gmail.com">
-    <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
 <!--
 **Heiji57/Heiji57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
