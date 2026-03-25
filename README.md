@@ -1,4 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&theme=ambient_gradient&section=header&height=200&text=Heiji57&animation=fadeIn&fontColor=00C0EA&fontSize=50&fontAlign=20&fontAlignY=40&desc=Developer&descAlign=37&descAlignY=45&stroke=281C59">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Back-End)](https://git.io/typing-svg)
 <!--
 **Heiji57/Heiji57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
