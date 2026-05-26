@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/MySql-3670A0?style=for-the-badge&logo=MySql&logoColor=000000" />&nbsp
+  <img src="https://img.shields.io/badge/MySql-080808?style=for-the-badge&logo=MySql&logoColor=000000" />&nbsp
   <img src="https://img.shields.io/badge/OpenJDK-C40C0C?style=for-the-badge&logo=OpenJDK&logoColor=740A03" />&nbsp
   <img src="https://img.shields.io/badge/Kotlin-000000.svg?style=for-the-badge&logo=kotlin&logoColor=B153D7" />&nbsp
 </div>
