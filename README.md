@@ -1,58 +1,30 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&theme=ambient_gradient&section=header&height=200&text=Heiji57&animation=fadeIn&fontColor=00C0EA&fontSize=50&fontAlign=20&fontAlignY=40&desc=BE-Developer&descAlign=37&descAlignY=45&stroke=281C59">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:58A6FF&height=190&section=header&text=Heiji57&fontSize=48&fontColor=E6EDF3&fontAlignY=36&desc=BE--Developer&descSize=18&descAlignY=54" />
 
-<!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Spring boot-20232a.svg?style=for-the-badge&logo=SpringBoot&logoColor=45EB10" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-</div>
+<h4 align="center">Backend</h4>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,fastapi,go,java,kotlin,python&theme=dark" /></a>
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Postgres-406093?style=for-the-badge&logo=PostgreSQL&logoColor=1992E3" />&nbsp
-  <img src="https://img.shields.io/badge/Redis-DB1A1A.svg?style=for-the-badge&logo=Redis&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/elasticsearch-F5FBE6.svg?style=for-the-badge&logo=Elasticsearch&logoColor=65DBFB" />&nbsp
-</div>
+<h4 align="center">Database</h4>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,redis,elasticsearch&theme=dark" /></a>
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/MySql-080808?style=for-the-badge&logo=MySql&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/OpenJDK-C40C0C?style=for-the-badge&logo=OpenJDK&logoColor=740A03" />&nbsp
-  <img src="https://img.shields.io/badge/Kotlin-000000.svg?style=for-the-badge&logo=kotlin&logoColor=B153D7" />&nbsp
-</div>
+<h4 align="center">Frontend</h4>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,react&theme=dark" /></a>
+</p>
 
-<br>
+<h4 align="center">Tools & IDE</h4>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,figma,vscode,idea,pycharm&theme=dark" /></a>
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/FastApi-white.svg?style=for-the-badge&logo=FastApi&logoColor=49CC90" />&nbsp
-</div>
-
-<br>
-
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/React-black.svg?style=for-the-badge&logo=React&logoColor=#20232a" />&nbsp
-</div>
-
-<br>
-
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/linear-000000.svg?style=for-the-badge&logo=linear&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/Intellij IDEA-091413.svg?style=for-the-badge&logo=intellijidea&logoColor=DB1A1A" />&nbsp
-</div>
+<h4 align="center">Also</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Gin-008ECC?style=flat-square&logo=go&logoColor=white" alt="Gin" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white" alt="Linear" />
+  <img src="https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=datagrip&logoColor=white" alt="DataGrip" />
+</p>
