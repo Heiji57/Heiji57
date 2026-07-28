@@ -3,7 +3,7 @@
 
 <h4 align="center">Backend</h4>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,fastapi,go,java,kotlin,python,pandas&theme=dark" height="48" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,fastapi,go,java,kotlin,python&theme=dark" height="48" /></a>
 </p>
 
 <h4 align="center">Database</h4>
@@ -18,12 +18,12 @@
 
 <h4 align="center">IDE</h4>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,datagrip&theme=dark" height="48" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,idea,pycharm&theme=dark" height="48" /></a>
 </p>
 
 <h4 align="center">Collaboration</h4>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,notion,obsidian,figma,postman,linear&theme=dark" height="48" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,notion,obsidian,figma,postman&theme=dark" height="48" /></a>
 </p>
 
 <h4 align="center">Cloud</h4>
