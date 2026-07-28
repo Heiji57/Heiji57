@@ -3,7 +3,6 @@
 <h4 align="center">Backend</h4>
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,fastapi,go,java,kotlin,python&theme=dark" height="48" /></a>
-  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=gin&logoColor=00A8D6" alt="Gin" height="48" />
   <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=pandas&logoColor=FFFFFF" alt="Pandas" height="48" />
 </p>
 
@@ -15,7 +14,7 @@
 
 <h4 align="center">Frontend</h4>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,react&theme=dark" height="48" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" height="48" /></a>
 
 </p>
 
