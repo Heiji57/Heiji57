@@ -3,7 +3,7 @@
 
 <h4 align="center">Backend</h4>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,fastapi,go,java,kotlin,python&theme=dark" height="48" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,fastapi,go,java,kotlin,python,pandas&theme=dark" height="48" /></a>
   <img src="./assets/tile-pandas.png" alt="Pandas" width="48" height="48" />
 </p>
 
