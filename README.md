@@ -1,9 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:58A6FF&height=190&section=header&text=Heiji57&fontSize=48&fontColor=E6EDF3&fontAlignY=36&desc=BE--Developer&descSize=18&descAlignY=54" />
+<!-- assets/tile-pandas.png, tile-linear.png, tile-datagrip.png 3개 파일을 저장소 assets/ 폴더에 함께 올려주세요 -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:58A6FF&height=190&section=header&text=Heiji57&fontSize=48&fontColor=E6EDF3&fontAlignY=36&desc=BE-Developer&descSize=18&descAlignY=54" />
 
 <h4 align="center">Backend</h4>
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,fastapi,go,java,kotlin,python&theme=dark" height="48" /></a>
-  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=pandas&logoColor=FFFFFF&logoSize=auto" alt="Pandas" width="48" height="48" />
+  <img src="./assets/tile-pandas.png" alt="Pandas" width="48" height="48" />
 </p>
 
 <h4 align="center">Database</h4>
@@ -21,11 +22,11 @@
 <h4 align="center">Collaboration</h4>
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,notion,figma&theme=dark" height="48" /></a>
-  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=linear&logoColor=FFFFFF&logoSize=auto" alt="Linear" width="48" height="48" />
+  <img src="./assets/tile-linear.png" alt="Linear" width="48" height="48" />
 </p>
 
 <h4 align="center">IDE</h4>
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,idea,pycharm&theme=dark" height="48" /></a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" alt="DataGrip" width="48" height="48" />
+  <img src="./assets/tile-datagrip.png" alt="DataGrip" width="48" height="48" />
 </p>
