@@ -21,7 +21,7 @@
 
 <h4 align="center">Collaboration</h4>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,notion,figma&theme=dark" height="48" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,notion,figma,linear&theme=dark" height="48" /></a>
   <img src="./assets/tile-linear.png" alt="Linear" width="48" height="48" />
 </p>
 
