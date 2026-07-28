@@ -8,7 +8,7 @@
 
 <h4 align="center">Database</h4>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,redis,elasticsearch&theme=dark" height="48" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,redis,elasticsearch,sqlite&theme=dark" height="48" /></a>
 </p>
 
 <h4 align="center">Frontend</h4>
