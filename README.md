@@ -21,12 +21,17 @@
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,idea,pycharm&theme=dark" height="48" /></a>
 </p>
 
-<h4 align="center">Collaboration</h4>
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,notion,obsidian,figma,postman&theme=dark" height="48" /></a>
-</p>
-
 <h4 align="center">Cloud</h4>
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=dark" height="48" /></a>
+</p>
+
+<h4 align="center">OS</h4>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=window,linux&theme=dark" height="48" /></a>
+</p>
+
+<h4 align="center">Collaboration</h4>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,notion,obsidian,figma,postman&theme=dark" height="48" /></a>
 </p>
