@@ -1,30 +1,31 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:58A6FF&height=190&section=header&text=Heiji57&fontSize=48&fontColor=E6EDF3&fontAlignY=36&desc=BE-Developer&descSize=18&descAlignY=54" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:58A6FF&height=190&section=header&text=Heiji57&fontSize=48&fontColor=E6EDF3&fontAlignY=36&desc=BE--Developer&descSize=18&descAlignY=54" />
 
 <h4 align="center">Backend</h4>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,fastapi,go,java,kotlin,python&theme=dark" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,fastapi,go,java,kotlin,python&theme=dark" height="48" /></a>
+  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=pandas&logoColor=FFFFFF" alt="Pandas" height="48" />
 </p>
 
 <h4 align="center">Database</h4>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,redis,elasticsearch&theme=dark" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,redis,elasticsearch&theme=dark" height="48" /></a>
+
 </p>
 
 <h4 align="center">Frontend</h4>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,react&theme=dark" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,react&theme=dark" height="48" /></a>
+
 </p>
 
-<h4 align="center">Tools & IDE</h4>
+<h4 align="center">Collaboration</h4>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,figma,vscode,idea,pycharm&theme=dark" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,notion,figma&theme=dark" height="48" /></a>
+  <img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=linear&logoColor=FFFFFF" alt="Linear" height="48" />
 </p>
 
-<h4 align="center">Also</h4>
+<h4 align="center">IDE</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Gin-008ECC?style=flat-square&logo=go&logoColor=white" alt="Gin" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
-  <img src="https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white" alt="Linear" />
-  <img src="https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=datagrip&logoColor=white" alt="DataGrip" />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,idea,pycharm&theme=dark" height="48" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" alt="DataGrip" height="48" />
 </p>
