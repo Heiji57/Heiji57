@@ -1,10 +1,11 @@
 <!-- assets/tile-pandas.png, tile-linear.png, tile-datagrip.png 3개 파일을 저장소 assets/ 폴더에 함께 올려주세요 -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:58A6FF&height=190&section=header&text=Heiji57&fontSize=48&fontColor=E6EDF3&fontAlignY=36&desc=BE-Developer&descSize=18&descAlignY=54" />
 <p align="center">
   <a href="https://portfolio.heijionline.com">
     <img src="assets/portfolio-card.png" width="640" alt="Gim Minsu · Server Developer Portfolio — portfolio.heijionline.com" />
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:58A6FF&height=190&section=header&text=Heiji57&fontSize=48&fontColor=E6EDF3&fontAlignY=36&desc=BE-Developer&descSize=18&descAlignY=54" />
 
 <h4 align="center">Backend</h4>
 <p align="center">
