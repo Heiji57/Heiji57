@@ -2,8 +2,10 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:58A6FF&height=190&section=header&text=Heiji57&fontSize=48&fontColor=E6EDF3&fontAlignY=36&desc=BE-Developer&descSize=18&descAlignY=54" />
 <p align="center">
   <a href="https://portfolio.heijionline.com">
-    <img src="https://img.shields.io/badge/Portfolio-portfolio.heijionline.com-0b0b0c?style=for-the-badge" alt="Portfolio" />
+    <img src="https://portfolio.heijionline.com/og.png" width="640" alt="Gim Minsu Portfolio" />
   </a>
+  <br />
+  <a href="https://portfolio.heijionline.com"><b>View Portfolio ↗</b></a>
 </p>
 
 <h4 align="center">Backend</h4>
